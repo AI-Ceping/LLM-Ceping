@@ -25,3 +25,11 @@ __🔥  大模型资讯更新__。最终标杆模型最新动态，快速捕捉�
 __🔥  数据集渠道整合__。从海量开源数据集筛选优质数据集，方便大模型使用者快速微调、评测。
 
 __🔥  共建[ AI-Ceping（爱测评）](https://ai-ceping.com/) 社区：大模型数据灵感众筹平台__。由同济大学发起，鼓励用户通过自己的创意和灵感，贡献真实的AI语料，以助于大模型的持续迭代和维护。
+
+
+# Prompt Engineering 提示词工程
+
+| 资源名称  | 资源描述 | 资源链接     |
+| :---        |    :----   |          :--- |
+|   吴恩达讲ChatGPT提示工程    |    吴恩达与OpenAI官方合作的ChatGPT提示工程课程   |  [Bilibili 视频](https://www.bilibili.com/video/BV1fk4y1J7Af/) |
+|  大模型时代的科研基础之：Prompt Engineering   |  微软亚洲研究院高级研究员王晋东讲提示词工程    |  [Bilibili 视频](https://www.bilibili.com/video/BV13P41197c6/) [知乎文字版](https://zhuanlan.zhihu.com/p/631922240)  |
