@@ -28,7 +28,7 @@ __🔥  共建[ AI-Ceping（爱测评）](https://ai-ceping.com/) 社区：大�
 
 |  :fire::fire::fire::fire::fire:目录:fire::fire::fire::fire::fire:   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
 |  ----  |
-| * [Prompt Engineering 提示词工程](#prompt-engineering-提示词工程)  <br> * [LeaderBord （社区评测榜单）](#leaderbord-社区评测榜单)
+| * [大模型评测小白入门指北](#大模型评测小白入门指北) <br> * [Prompt Engineering 提示词工程](#prompt-engineering-提示词工程)  <br> * [LeaderBord （社区评测榜单）](#leaderbord-社区评测榜单)
 
 
 # 大模型评测小白入门指北
