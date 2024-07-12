@@ -15,7 +15,7 @@
   <!-- prettier-ignore-end -->
 </div>
 <p align="center">
-  <a href="https://raw.githubusercontent.com/AI-Ceping/LLM-Ceping">
+  <a href="https://github.com/AI-Ceping/LLM-Ceping">
     <img src="https://img.shields.io/badge/FREE-AI--Ceping-8A2BE2" alt="license">
   </a>
 <p align="center">
