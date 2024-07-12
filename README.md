@@ -7,13 +7,16 @@
   <a href="https://tapy80meo6.feishu.cn/wiki/OY2FwN1hTiJXJ5kxbuucPIMLn2c?fromScene=spaceOverview">📚飞书知识库</a>
 </p>
 
-#<p align="center">LLM-Ceping</p>
+
+<div align="center">
+#LLM-Ceping
+
 
   <!-- prettier-ignore-start -->
   <!-- markdownlint-disable-next-line MD036 -->
   _✨ 用数据淘金，人工智能需要你助力！ ✨_
   <!-- prettier-ignore-end -->
-
+</div>
   #简介
 
   我们希望通过每位用户对大模型应用的理解，以及自身具备的不同领域的知识，设计高质量的评测数据来对大模型进行综合的评估。
