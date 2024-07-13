@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD033 MD041 -->
 <p align="center">
-  <img src="LOGO" alt="Your Logo" width="200" height="200">
+  <img src="/image/AI_Ceping_logo.jpg" alt="Your Logo" width="200" height="200">
 </p>
 
 
