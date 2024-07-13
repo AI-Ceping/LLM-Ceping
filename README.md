@@ -32,9 +32,11 @@
     <img alt="BiliBili" src="https://img.shields.io/badge/BiliBili-pink?logo=bilibili&logoColor=white" />
   </a>
   <br>
+  ⭐英文版English-README.md正在规划中⭐
+  <br>
 </p>
 
-——————————————————————⭐英文版English-README.md正在规划中⭐———————————————————
+
 
 # 简介
 
