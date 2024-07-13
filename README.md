@@ -36,7 +36,7 @@
     <img alt="Wechat" src="https://img.shields.io/badge/wechat-brightgreen?logo=wechat&logoColor=white" />
   </a>
   <a href="https://jq.qq.com/#">
-    <img src="https://img.shields.io/badge/QQ%E7%BE%A4-规划中-orange?style=flat-square" alt="QQ Chat Group">
+    <img  alt="tencentqq" src="https://img.shields.io/badge/tencentqq-blue??logo=tencentqq&logoColor=#1EBAFC" >
   </a>
   <a href="https://qun.qq.com/#">
     <img src="https://img.shields.io/badge/QQ%E9%A2%91%E9%81%93-AI--Ceping--规划中-5492ff?style=flat-square" alt="QQ Channel">
