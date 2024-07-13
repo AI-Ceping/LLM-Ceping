@@ -15,6 +15,12 @@
   <!-- prettier-ignore-end -->
 </div>
 <p align="center">
+   <a href="#">
+    <img src="https://img.shields.io/badge/QQ%E7%BE%A4-规划中-orange?style=flat-square" alt="QQ Chat Group">
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/QQ%E9%A2%91%E9%81%93AI--Ceping-规划中-5492ff?style=flat-square" alt="QQ">
+  </a>
   <a href="https://github.com/AI-Ceping/LLM-Ceping">
     <img src="https://img.shields.io/badge/FREE-AI--Ceping-8A2BE2" alt="license">
   </a>
