@@ -11,7 +11,8 @@
 
   <!-- prettier-ignore-start -->
   <!-- markdownlint-disable-next-line MD036 -->
-  _✨ 用数据淘金，人工智能需要你助力！ ✨_
+  _✨ 用数据淘金，人工智能需要你助力！ ✨
+  ✨ 关注ai-ceping喵，关注ai-ceping谢谢喵！ ✨_
   <!-- prettier-ignore-end -->
 </div>
 <p align="center">
