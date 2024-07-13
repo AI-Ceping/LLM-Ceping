@@ -35,11 +35,11 @@
   <a href="https://jq.qq.com/#">
     <img  alt="tencentqq" src="https://img.shields.io/badge/tencentqq-blue??logo=tencentqq&logoColor=#1EBAFC" >
   </a>
+  <a href="https://www.bilibili.com/" target="_blank">
+    <img alt="BiliBili" src="https://img.shields.io/badge/BiliBili-pink?logo=bilibili&logoColor=white" />
+  </a>
   <a href="https://qun.qq.com/#">
     <img src="https://img.shields.io/badge/QQ%E9%A2%91%E9%81%93-AI--Ceping--规划中-5492ff?style=flat-square" alt="QQ Channel">
-  </a>
-   <a href="https://www.bilibili.com/" target="_blank">
-    <img alt="BiliBili" src="https://img.shields.io/badge/BiliBili-pink?logo=bilibili&logoColor=white" />
   </a>
   <a href="#">
     <img src="https://discordapp.com/api/guilds/847819937858584596/widget.png?style=shield" alt="Discord Server">
