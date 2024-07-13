@@ -30,7 +30,7 @@
   </a>
 <p align="center">
   <a href="https://mp.weixin.qq.com/s/uDZ8O7JIJrkrJ-APuJBGIA" target="_blank">
-    <img alt="Wechat" src="https://img.shields.io/badge/wechat-brightgreen?logo=wechat&logoColor=white" />
+    <img alt="Wechat" src="https://img.shields.io/badge/wechat--公众号-brightgreen?logo=wechat&logoColor=white" />
   </a>
   <a href="https://jq.qq.com/#">
     <img  alt="tencentqq" src="https://img.shields.io/badge/tencentqq-blue??logo=tencentqq&logoColor=#1EBAFC" >
