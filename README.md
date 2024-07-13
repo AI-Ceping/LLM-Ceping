@@ -59,8 +59,8 @@
 | * [大模型评测小白入门指北](#大模型评测小白入门指北)  <br>
 &nbsp; &nbsp; &nbsp; · [什么是大语言模型？](#什么是大语言模型) <br>
 &nbsp; &nbsp; &nbsp; · [数据构建操作流程](#数据构建操作流程) <br>
-* [Prompt Engineering 提示词工程](#prompt-engineering-提示词工程)  <br>
-* [各渠道大模型榜单（LeaderBoard）](#leaderbord-社区评测榜单) <br>
+&nbsp; &nbsp; &nbsp;* [Prompt Engineering 提示词工程](#prompt-engineering-提示词工程)  <br>
+&nbsp; &nbsp; &nbsp;* [各渠道大模型榜单（LeaderBoard）](#leaderbord-社区评测榜单) <br>
 &nbsp; &nbsp; &nbsp; · [基础模型榜单](#基础模型榜单) <br>
 &nbsp; &nbsp; &nbsp; · [多模态榜单](#多模态榜单) |
 
