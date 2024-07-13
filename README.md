@@ -29,7 +29,7 @@
     <img src="https://img.shields.io/badge/FREE-AI--Ceping-8A2BE2" alt="license">
   </a>
 <p align="center">
-  <a href="resource/figures/wechat.jpg" target="_blank">
+  <a href="https://mp.weixin.qq.com/s/uDZ8O7JIJrkrJ-APuJBGIA" target="_blank">
     <img alt="Wechat" src="https://img.shields.io/badge/wechat-brightgreen?logo=wechat&logoColor=white" />
   </a>
   <a href="https://jq.qq.com/#">
