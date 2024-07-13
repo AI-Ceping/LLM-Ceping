@@ -31,10 +31,7 @@
   <a href="https://www.bilibili.com/" target="_blank">
     <img alt="BiliBili" src="https://img.shields.io/badge/BiliBili-pink?logo=bilibili&logoColor=white" />
   </a>
-  <a href="https://qun.qq.com/#">
-    <img src="https://img.shields.io/badge/QQ%E9%A2%91%E9%81%93-AI--Ceping--规划中-5492ff?style=flat-square" alt="QQ Channel">
-  </a>
-    <br>
+  <br>
   </a>
   <a href="https://ai-ceping.com/" target="_blank">🖥️数据共建平台</a> |
   <a href="https://tapy80meo6.feishu.cn/wiki/OY2FwN1hTiJXJ5kxbuucPIMLn2c?fromScene=spaceOverview">📚飞书知识库</a> |
