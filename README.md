@@ -56,16 +56,18 @@
   >__📘   大模型资讯更新__。最终标杆模型最新动态，快速捕捉大模型发现最前沿讯息。<br>
   >__📙   数据集渠道整合__。从海量开源数据集筛选优质数据集，方便大模型使用者快速微调、评测。<br>
   >__📙   共建[ AI-Ceping（爱测评）](https://ai-ceping.com/) 社区：大模型数据灵感众筹平台__。由同济大学发起，鼓励用户通过自己的创意和灵感，贡献真实的AI语料，以助于大模型的持续迭代和维护。<br>
+## 📋 目录
 
-| &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 目录   &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |
-|  ----  |
-| * [大模型评测小白入门指北](#大模型评测小白入门指北)  <br>
-&nbsp; &nbsp; &nbsp; · [什么是大语言模型？](#什么是大语言模型) <br>
-&nbsp; &nbsp; &nbsp; · [数据构建操作流程](#数据构建操作流程) <br>
-&nbsp; &nbsp; &nbsp;* [Prompt Engineering 提示词工程](#prompt-engineering-提示词工程)  <br>
-&nbsp; &nbsp; &nbsp;* [各渠道大模型榜单（LeaderBoard）](#leaderbord-社区评测榜单) <br>
-&nbsp; &nbsp; &nbsp; · [基础模型榜单](#基础模型榜单) <br>
-&nbsp; &nbsp; &nbsp; · [多模态榜单](#多模态榜单) |
+- []()
+  
+  - [大模型评测小白入门指北](#大模型评测小白入门指北)
+  - [什么是大语言模型？](#什么是大语言模型)
+  - [数据构建操作流程](#数据构建操作流程)
+  - [Prompt Engineering 提示词工程](#prompt-engineering-提示词工程) 
+  - [各渠道大模型榜单（LeaderBoard）](#leaderbord-社区评测榜单)
+  - [基础模型榜单](#基础模型榜单)
+  - [多模态榜单](#多模态榜单) 
+
 
 
 # 大模型评测小白入门指北
@@ -118,7 +120,7 @@
 > - 评测试题隐私、公正，避免大模型在训练中见过以及背题。
 > - 具有指导意义的评测。针对性的评价大模型的各项能力，指导未来大模型的研究方向
 
-## 数据构建操作流程
+## 数据构建操作流程（十分重要）
 
 ### （一）打开[AI-Ceping](https://ai-ceping.com/) 官网，点击任务中心—选择你想要完成的任务
 ![1](image/Tutorials/1.png)
