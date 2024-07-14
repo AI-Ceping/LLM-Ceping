@@ -69,7 +69,7 @@
 
 
 ## 数据构建操作流程（十分重要）
-### (注册) AI 评测狂欢，人人均可参与，[点击即可注册](https://ai-ceping.com/register?inviteCode=I4bzWD)
+### (注册) AI 评测狂欢，人人均可参与，[点击即可注册，快人一步](https://ai-ceping.com/register?inviteCode=I4bzWD)👈👈👈👈👈👈👈👈
 
 ### （一）打开[AI-Ceping](https://ai-ceping.com/) 官网，点击任务中心—选择你想要完成的任务
 ![1](image/Tutorials/1.png)
