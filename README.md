@@ -131,10 +131,10 @@
 ![1](image/Tutorials/8.png)
 
 ### （二）选中之后，先仔细阅读玩法简介
-![2](image/Tutorials/2.png)
+![2](image/Tutorials/2-1.png)
 
 ### （三）选择你感兴趣的标签，阅读下方任务说明，开始撰写数据
-![3](image/Tutorials/3.png)
+![3](image/Tutorials/3-1.png)
 > [!TIP]\
 > 任务难度越高，相应地可以获得更高的现金&积分奖励哦
 ### （四）填写数据后，点击分析问题，进入机审环节
