@@ -64,8 +64,8 @@
 - 🍎   
   - [大模型评测小白入门指北](#大模型评测小白入门指北)
   - [什么是大语言模型？](#什么是大语言模型)
-  - [数据构建操作流程](https://github.com/AI-Ceping/LLM-Ceping/blob/main/README.md#%E6%95%B0%E6%8D%AE%E6%9E%84%E5%BB%BA%E6%93%8D%E4%BD%9C%E6%B5%81%E7%A8%8B%E5%8D%81%E5%88%86%E9%87%8D%E8%A6%81)
-  - [如何构思出优秀的数据？](#如何构思出优秀的数据) （非常重要）
+  - [数据构建操作流程](https://github.com/AI-Ceping/LLM-Ceping/blob/main/README.md#%E6%95%B0%E6%8D%AE%E6%9E%84%E5%BB%BA%E6%93%8D%E4%BD%9C%E6%B5%81%E7%A8%8B%E5%8D%81%E5%88%86%E9%87%8D%E8%A6%81) （非常重要）
+  - [如何构思出优秀的数据？](#如何构思出优秀的数据) 
   - [Prompt Engineering 提示词工程](#prompt-engineering-提示词工程) 
   - [各渠道大模型榜单（LeaderBoard）](#leaderbord-社区评测榜单)
   - [基础模型榜单](#基础模型榜单)
