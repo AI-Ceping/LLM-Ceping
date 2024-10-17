@@ -57,13 +57,13 @@
 ## 目录
 - [背景](#背景)
 - [简介](#简介)
-- [AI-Ceping 大模型测评知识库](https://github.com/AI-Ceping/LLM-Ceping/edit/main/README.md#ai-ceping-%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%B5%8B%E8%AF%84%E7%9F%A5%E8%AF%86%E5%BA%93)
+- [AI-Ceping 大模型测评知识库](#AI---Ceping大模型测评知识库)
 - [评测方法](#评测方法)
 - [评测结果](#评测结果)
 - [参考文献](#参考文献)
 - [致谢](#致谢)
 
-## AI-Ceping 大模型测评知识库
+## AI-Ceping---大模型测评知识库
 
   这里我们与社区用户共建了[《AI-Ceping 大模型测评知识库》](https://tapy80meo6.feishu.cn/wiki/OY2FwN1hTiJXJ5kxbuucPIMLn2c?fromScene=spaceOverview)，帮助大家快速了解入门AI大模型 ：
   > [!tip]\
