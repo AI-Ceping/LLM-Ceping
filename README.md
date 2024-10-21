@@ -54,13 +54,17 @@
 # 简介
 ⭐[LLM-Ceping](https://ai-ceping.com/) 是一个现代化的、零门槛，年轻化的平台我们希望通过每位用户对大模型应用的理解，以及自身具备的不同领域的知识，设计高质量的评测数据来对大模型进行综合的评估。
 
-## 目录
+## 📋 目录
 - [背景](#背景)
 - [简介](#简介)
 - [AI-Ceping 大模型测评知识库](#AI-Ceping---大模型测评知识库)
 - [评测方法](#评测方法)
 - [评测结果](#评测结果)
 - [参考文献](#参考文献)
+  - [Prompt Engineering 提示词工程](#prompt-engineering-提示词工程) 
+  - [各渠道大模型榜单（LeaderBoard）](#leaderbord-社区评测榜单)
+  - [基础模型榜单](#基础模型榜单)
+  - [多模态榜单](#多模态榜单) 
 - [致谢](#致谢)
 
 ## AI-Ceping---大模型测评知识库
@@ -75,14 +79,11 @@
 
 ## 📚 遇到问题了？
 请先访问我们的项目[Wiki](https://github.com/AI-Ceping/LLM-Ceping/wiki)，这里汇集了常见问题的解答和操作指南。如果Wiki中没有你要找的答案，欢迎提出你的问题，我们会尽快回复。
-## 📋 目录
+
 
   - [数据构建操作流程](https://github.com/AI-Ceping/LLM-Ceping/blob/main/README.md#%E6%95%B0%E6%8D%AE%E6%9E%84%E5%BB%BA%E6%93%8D%E4%BD%9C%E6%B5%81%E7%A8%8B%E5%8D%81%E5%88%86%E9%87%8D%E8%A6%81) （非常重要）
   - [如何构思出优秀的数据？](#如何构思出优秀的数据) 
-  - [Prompt Engineering 提示词工程](#prompt-engineering-提示词工程) 
-  - [各渠道大模型榜单（LeaderBoard）](#leaderbord-社区评测榜单)
-  - [基础模型榜单](#基础模型榜单)
-  - [多模态榜单](#多模态榜单) 
+
 
 
 
