@@ -25,16 +25,14 @@
   <a href="https://mp.weixin.qq.com/s/uDZ8O7JIJrkrJ-APuJBGIA" target="_blank">
     <img alt="Wechat" src="https://img.shields.io/badge/wechat--公众号-brightgreen?logo=wechat&logoColor=white" />
   </a>
-  <a href="https://www.bilibili.com/" target="_blank">
-    <img alt="BiliBili" src="https://img.shields.io/badge/BiliBili-pink?logo=bilibili&logoColor=white" />
-  <a href="https://www.xiaohongshu.com/" target="_blank">
+  
    
   <br>
 <p align="center">
 <a href="#背景">背景</a> &nbsp;&bull;&nbsp;
 <a href="#简介">简介</a> &nbsp;&bull;&nbsp;
-<a href="#AI-Ceping 大模型测评知识库">AI-Ceping 大模型测评知识库</a> &nbsp;&bull;&nbsp;
-<a href="#ai-ceping-%E5%A4%A7%E6%A8%A1%E5%9E%8B%E6%B5%8B%E8%AF%84%E7%9F%A5%E8%AF%86%E5%BA%93">平台操作方法</a> &nbsp;&bull;&nbsp;
+<a href="#AI-Ceping大模型测评知识库">AI-Ceping 大模型测评知识库</a> &nbsp;&bull;&nbsp;
+<a href="https://github.com/AI-Ceping/LLM-Ceping/wiki/%E5%B9%B3%E5%8F%B0%E6%93%8D%E4%BD%9C%E6%96%B9%E6%B3%95">平台操作方法</a> &nbsp;&bull;&nbsp;
 <a href="#相关文献"> 相关文献 </a> &nbsp;&bull;&nbsp;
 <a href="#交流讨论">交流</a> &nbsp;&bull;&nbsp;
 <a href="#鸣谢">鸣谢</a>
@@ -58,9 +56,14 @@
 
 
 # 简介
-⭐[LLM-Ceping](https://ai-ceping.com/) 是一个现代化的、零门槛，年轻化的平台我们希望通过每位用户对大模型应用的理解，以及自身具备的不同领域的知识，设计高质量的评测数据来对大模型进行综合的评估。
+⭐[LLM-Ceping](https://ai-ceping.com/)  AI-Ceping，一个由同济大学开发的大模型评测数据收集平台。是为了应对大语言模型（LLM）评测的迫切需求，尤其是在 ChatGPT 掀起的研究和应用浪潮之后。使命是构建一个权威、公正、透明的评测环境，以客观评估大型语言模型的能力，并反映这些模型需要解决的问题。
+- 评测方法 通过用户提问和撰写参考答案来参与大模型的训练和评测。用户可以通过向模型提问，让三个大模型生成回答，并获得一定的奖励。此外，用户还可以选择喜欢的模型回答，涉及文字、语音和视频等多模态内容
+- 评测标准 评测方法包括使用强模型（如 GPT-4）来打分评测回答质量，衡量模型的指令遵循能力和有用性。打分维度包括事实正确性、满足用户需求、清晰度、完备性、丰富度等多项.
+- 目标 期望通过每位用户对大模型应用的理解以及自身具备的不同领域的知识，设计高质量的评测数据来对大模型进行综合的评估。通过这个平台，用户可以为大模型的训练与评测注入活力，
 
-## AI-Ceping 大模型测评知识库
+AI-Ceping 还提供了详细的任务概况说明，包括背景、奖励规则、活动须知、反作弊说明和活动安排等，以确保评测活动的顺利进行。通过这个平台，用户可以为大模型的训练与评测注入活力，同时也有机会获得现金奖励
+
+## AI-Ceping大模型测评知识库
 
   这里我们与社区用户共建了[《AI-Ceping 大模型测评知识库》](https://tapy80meo6.feishu.cn/wiki/OY2FwN1hTiJXJ5kxbuucPIMLn2c?fromScene=spaceOverview)，帮助大家快速了解入门AI大模型 ：
   > [!tip]\
