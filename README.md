@@ -31,8 +31,8 @@
    
   <br>
 <p align="center">
-<a href="# 简介">简介</a> &nbsp;&bull;&nbsp;
-<a href="#开发">开发</a> &nbsp;&bull;&nbsp;
+<a href="#背景">背景</a> &nbsp;&bull;&nbsp;
+<a href="#简介">简介</a> &nbsp;&bull;&nbsp;
 <a href="#安装">安装</a> &nbsp;&bull;&nbsp;
 <a href="#使用">使用</a> &nbsp;&bull;&nbsp;
 <a href="#模块">模块</a> &nbsp;&bull;&nbsp;
