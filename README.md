@@ -34,7 +34,7 @@
 <a href="#简介">简介</a> &nbsp;&bull;&nbsp;
 <a href="#AI-Ceping大模型测评知识库">AI-Ceping 大模型测评知识库</a> &nbsp;&bull;&nbsp;
 <a href="https://github.com/AI-Ceping/LLM-Ceping/wiki/%E5%B9%B3%E5%8F%B0%E6%93%8D%E4%BD%9C%E6%96%B9%E6%B3%95">平台操作方法</a> &nbsp;&bull;&nbsp;
-<a href="#📚遇到问题了？">遇到问题了？</a> &nbsp;&bull;&nbsp;
+<a href="https://github.com/AI-Ceping/LLM-Ceping/blob/main/README.md#%E9%81%87%E5%88%B0%E9%97%AE%E9%A2%98%E4%BA%86">遇到问题了？</a> &nbsp;&bull;&nbsp;
 <a href="#相关文献"> 相关文献 </a> &nbsp;&bull;&nbsp;
 
 </p>
