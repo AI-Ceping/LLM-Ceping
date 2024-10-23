@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD033 MD041 -->
 <p align="center">
-  <img src="images/AI.png" alt="Your Logo" width="200" height="200">
+  <img src="https://ai-ceping.com/wp-content/uploads/2024/08/%E9%A6%96%E9%A1%B5Robot.png" alt="Your Logo" width="200" height="200">
 </p>
 
 
