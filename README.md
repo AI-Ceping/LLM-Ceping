@@ -25,8 +25,9 @@
   <a href="https://mp.weixin.qq.com/s/uDZ8O7JIJrkrJ-APuJBGIA" target="_blank">
     <img alt="Wechat" src="https://img.shields.io/badge/wechat--公众号-brightgreen?logo=wechat&logoColor=white" />
   </a>
-  
-   
+  <a href="https://space.bilibili.com/3546734703676231" target="_blank">
+    <img alt="BiliBili" src="https://img.shields.io/badge/BiliBili-pink?logo=bilibili&logoColor=white" />
+  </a>
   <br>
 <p align="center">
 <a href="#背景">背景</a> &nbsp;&bull;&nbsp;
@@ -60,6 +61,19 @@
 
 AI-Ceping 还提供了详细的任务概况说明，包括背景、奖励规则、活动须知、反作弊说明和活动安排等，以确保评测活动的顺利进行。通过这个平台，用户可以为大模型的训练与评测注入活力，同时也有机会获得现金奖励
 
+
+# <b>以下是平台核心功能</b>
+|   |    |
+|---|---|
+|<img src="https://github.com/user-attachments/assets/97458dbd-9e28-45a5-9ca6-f9fc584ec58f" width="600" height="300" alt=""> | <b>单条数据</b>｜向大模型提真实问题<br>向模型提问，让三个大模型生成回答，即可获得奖励，每个问题可得2-10元<br>|
+| <b> 数据扩写 </b>｜撰写问答对，给大模型出题 <br> 提问并撰写参考答案，为大模型训练与评测注入血液，每个问答对可得2-10元 |  <img src="https://github.com/user-attachments/assets/60bcbde3-bbbe-41a4-b926-0c8716d6b442"  width="600" height="300" alt=""> | <br>
+|<img src="https://github.com/user-attachments/assets/1f2fea1b-cd99-4ad3-adcb-94ec6089b2c8"  width="600" height="300" alt=""> |  <b> 评测任务</b>｜做选择题，选择你满意的内容 <br> pick你喜欢的模型回答，回答涉及文字、语音和视频等多模态内容，等你来评价！ | <br>
+| <b>  模型擂台</b>｜最强大模型，由你来评 <br> 随机派送2个大模型为你服务，输入问题，选择你喜欢的回答，看看哪个模型表现好​    |  <img src="https://github.com/user-attachments/assets/3b588272-1c8a-4caf-bc82-6f5650e19220"  width="600" height="300" alt=""> | <br>
+
+
+
+
+
 ## AI-Ceping大模型测评知识库
 
   这里我们与社区用户共建了[《AI-Ceping 大模型测评知识库》](https://tapy80meo6.feishu.cn/wiki/OY2FwN1hTiJXJ5kxbuucPIMLn2c?fromScene=spaceOverview)，帮助大家快速了解入门AI大模型 ：
@@ -75,6 +89,7 @@ AI-Ceping 还提供了详细的任务概况说明，包括背景、奖励规则�
 
   - [数据构建操作流程](https://github.com/AI-Ceping/LLM-Ceping/blob/main/README.md#%E6%95%B0%E6%8D%AE%E6%9E%84%E5%BB%BA%E6%93%8D%E4%BD%9C%E6%B5%81%E7%A8%8B%E5%8D%81%E5%88%86%E9%87%8D%E8%A6%81) （非常重要）
   - [如何构思出优秀的数据？](#如何构思出优秀的数据) 
+
 
 
 
