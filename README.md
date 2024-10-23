@@ -33,8 +33,8 @@
 <p align="center">
 <a href="#背景">背景</a> &nbsp;&bull;&nbsp;
 <a href="#简介">简介</a> &nbsp;&bull;&nbsp;
-<a href="#安装">安装</a> &nbsp;&bull;&nbsp;
-<a href="#使用">使用</a> &nbsp;&bull;&nbsp;
+<a href="#AI-Ceping---大模型测评知识库">AI-Ceping---大模型测评知识库</a> &nbsp;&bull;&nbsp;
+<a href="https://github.com/AI-Ceping/LLM-Ceping/wiki/%E5%B9%B3%E5%8F%B0%E6%93%8D%E4%BD%9C%E6%96%B9%E6%B3%95">平台操作方法</a> &nbsp;&bull;&nbsp;
 <a href="#模块">模块</a> &nbsp;&bull;&nbsp;
 <a href="#交流讨论">交流</a> &nbsp;&bull;&nbsp;
 <a href="#鸣谢">鸣谢</a>
@@ -58,8 +58,6 @@
 
 
 ## 📋 目录
-- [背景](#背景)
-- [简介](#简介)
 - [AI-Ceping 大模型测评知识库](#AI-Ceping---大模型测评知识库)
 - [评测方法](#评测方法)
 - [评测结果](#评测结果)
