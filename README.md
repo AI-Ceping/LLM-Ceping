@@ -25,17 +25,21 @@
   <a href="https://mp.weixin.qq.com/s/uDZ8O7JIJrkrJ-APuJBGIA" target="_blank">
     <img alt="Wechat" src="https://img.shields.io/badge/wechat--公众号-brightgreen?logo=wechat&logoColor=white" />
   </a>
-  <a href="https://jq.qq.com/#">
-    <img  alt="tencentqq" src="https://img.shields.io/badge/tencentqq-规划中-lightgrey?style=social&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+VGVuY2VudCBRUTwvdGl0bGU+PHBhdGggZD0iTTIxLjM5NSAxNS4wMzVhNDAgNDAgMCAwIDAtLjgwMy0yLjI2NGwtMS4wNzktMi42OTVjLjAwMS0uMDMyLjAxNC0uNTYyLjAxNC0uODM2QzE5LjUyNiA0LjYzMiAxNy4zNTEgMCAxMiAwUzQuNDc0IDQuNjMyIDQuNDc0IDkuMjQxYzAgLjI3NC4wMTMuODA0LjAxNC44MzZsLTEuMDggMi42OTVhMzkgMzkgMCAwIDAtLjgwMiAyLjI2NGMtMS4wMjEgMy4yODMtLjY5IDQuNjQzLS40MzggNC42NzMuNTQuMDY1IDIuMTAzLTIuNDcyIDIuMTAzLTIuNDcyIDAgMS40NjkuNzU2IDMuMzg3IDIuMzk0IDQuNzcxLS42MTIuMTg4LTEuMzYzLjQ3OS0xLjg0NS44MzUtLjQzNC4zMi0uMzc5LjY0Ni0uMzAxLjc3OC4zNDMuNTc4IDUuODgzLjM2OSA3LjQ4Mi4xODkgMS42LjE4IDcuMTQuMzg5IDcuNDgzLS4xODkuMDc4LS4xMzIuMTMyLS40NTgtLjMwMS0uNzc4LS40ODMtLjM1Ni0xLjIzMy0uNjQ2LTEuODQ2LS44MzYgMS42MzctMS4zODQgMi4zOTMtMy4zMDIgMi4zOTMtNC43NzEgMCAwIDEuNTYzIDIuNTM3IDIuMTAzIDIuNDcyLjI1MS0uMDMuNTgxLTEuMzktLjQzOC00LjY3MyIvPjwvc3ZnPg==" >
-  </a>
-  <br>
   <a href="https://www.bilibili.com/" target="_blank">
     <img alt="BiliBili" src="https://img.shields.io/badge/BiliBili-pink?logo=bilibili&logoColor=white" />
   <a href="https://www.xiaohongshu.com/" target="_blank">
-    <img alt="Xiaohongshu" src="https://img.shields.io/badge/Xiaohongshu-规划中-brightred?style=social&logo=data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAcHBwcIBwgJCQgMDAsMDBEQDg4QERoSFBIUEhonGB0YGB0YJyMqIiAiKiM+MSsrMT5IPDk8SFdOTldtaG2Pj8ABBwcHBwgHCAkJCAwMCwwMERAODhARGhIUEhQSGicYHRgYHRgnIyoiICIqIz4xKysxPkg8OTxIV05OV21obY+PwP/CABEIADwAPAMBIgACEQEDEQH/xAAbAAEAAQUBAAAAAAAAAAAAAAAABQEDBAYHAv/aAAgBAQAAAACFAAFM3CkrGXGeLvWdUncvcuR6be6BATlY5poBUAAf/8QAGQEBAAIDAAAAAAAAAAAAAAAAAAIDAQQF/9oACAECEAAAAOKLp2auZqoj/8QAGgEBAAIDAQAAAAAAAAAAAAAAAAQFAQMGB//aAAgBAxAAAAD3oUsOs6vXFxYzB//EACkQAAICAgIBAgYCAwAAAAAAAAECAwQFEQASBhMhEBQxQVFhIkBCcZH/2gAIAQEAAT8A/o0sfcvu6VYTIyIXYAgaX8+/wsYjJVnrJLVYPOneNBpmYf6GzyTH34unqU507MFXtGw2T9hy1gsxUijlnoyqjr2BC9tD96+nGilREdo2VHB6MQQG1+D9/hBGJZ4Iz/nIq/8ATrmMx9PHeUZOrVQrGuOB0SW92PI8di4MBhcrJA7k2+tgKd91BPsAeeZ21pZLG3asbx3SgJdtkIutBNH255PJk7efxmPrWY4tRrYjLgaEib9+dcms2MMlyD0REwtLobkfWgV/W+eXU8tTetFaljep2k+U6fRQT9Oa5DK0M0Uya7Rurjf5U75i/Iscb+Yy1udo5po/Tjg672oA1o8xeUSSnTxVqf5eulv12n1sqANgD99uZC3icrfSK75DK9SCPaOYwC0jH6AKv2HPMLPjmTjNutkzJZjiWNIgpAYb5nb+MvxeOwi1/GGARzsq7MewvPJshjJcfh6FG0bAqIQ0nUr/AGv/xAAgEQEAAgIBBAMAAAAAAAAAAAABAhEAAzEEEiAhIlFx/9oACAECAQE/APDVq70vi6w0BFZP1xh00FS301ebIdsmOa9kocfuG+QUg471ZfE91eTkzbqvH//EACURAAEDAwMDBQAAAAAAAAAAAAECAxEABBIFITETFCAGIiNSkf/aAAgBAwEBPwDw1bVexRihGThRkmeIBA3/AGnNdcXdNMsM89VJK/sinfU942i1WWmfkSVFEmYFafdd5aoflPumMTNX+mW98BmSlWMZJ5xmYp3QmFvF1t1bat4xgwVcnemNCaZQwkXDiuiV4ExtmIqxs0WdullC1K3JJPJKjPj/AP/Z" />
-  </a>
+   
   <br>
-  ⭐英文版English-README.md正在规划中⭐
+<p align="center">
+<a href="#概述">概述</a> &nbsp;&bull;&nbsp;
+<a href="#开发">开发</a> &nbsp;&bull;&nbsp;
+<a href="#安装">安装</a> &nbsp;&bull;&nbsp;
+<a href="#使用">使用</a> &nbsp;&bull;&nbsp;
+<a href="#模块">模块</a> &nbsp;&bull;&nbsp;
+<a href="#交流讨论">交流</a> &nbsp;&bull;&nbsp;
+<a href="#鸣谢">鸣谢</a>
+</p>
+
   <br>
 </p>
 
