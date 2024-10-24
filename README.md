@@ -28,6 +28,9 @@
   <a href="https://space.bilibili.com/3546734703676231" target="_blank">
     <img alt="BiliBili" src="https://img.shields.io/badge/BiliBili-pink?logo=bilibili&logoColor=white" />
   </a>
+  <a href="https://www.xiaohongshu.com/user/profile/6645ba3e0000000007007aa2?xsec_token=&xsec_source=pc_note" target="_blank">
+    <img alt="Xiaohongshu" src="https://img.shields.io/badge/Xiaohongshu-规划中-brightred?style=social&logo=data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAcHBwcIBwgJCQgMDAsMDBEQDg4QERoSFBIUEhonGB0YGB0YJyMqIiAiKiM+MSsrMT5IPDk8SFdOTldtaG2Pj8ABBwcHBwgHCAkJCAwMCwwMERAODhARGhIUEhQSGicYHRgYHRgnIyoiICIqIz4xKysxPkg8OTxIV05OV21obY+PwP/CABEIADwAPAMBIgACEQEDEQH/xAAbAAEAAQUBAAAAAAAAAAAAAAAABQEDBAYHAv/aAAgBAQAAAACFAAFM3CkrGXGeLvWdUncvcuR6be6BATlY5poBUAAf/8QAGQEBAAIDAAAAAAAAAAAAAAAAAAIDAQQF/9oACAECEAAAAOKLp2auZqoj/8QAGgEBAAIDAQAAAAAAAAAAAAAAAAQFAQMGB//aAAgBAxAAAAD3oUsOs6vXFxYzB//EACkQAAICAgIBAgYCAwAAAAAAAAECAwQFEQASBhMhEBQxQVFhIkBCcZH/2gAIAQEAAT8A/o0sfcvu6VYTIyIXYAgaX8+/wsYjJVnrJLVYPOneNBpmYf6GzyTH34unqU507MFXtGw2T9hy1gsxUijlnoyqjr2BC9tD96+nGilREdo2VHB6MQQG1+D9/hBGJZ4Iz/nIq/8ATrmMx9PHeUZOrVQrGuOB0SW92PI8di4MBhcrJA7k2+tgKd91BPsAeeZ21pZLG3asbx3SgJdtkIutBNH255PJk7efxmPrWY4tRrYjLgaEib9+dcms2MMlyD0REwtLobkfWgV/W+eXU8tTetFaljep2k+U6fRQT9Oa5DK0M0Uya7Rurjf5U75i/Iscb+Yy1udo5po/Tjg672oA1o8xeUSSnTxVqf5eulv12n1sqANgD99uZC3icrfSK75DK9SCPaOYwC0jH6AKv2HPMLPjmTjNutkzJZjiWNIgpAYb5nb+MvxeOwi1/GGARzsq7MewvPJshjJcfh6FG0bAqIQ0nUr/AGv/xAAgEQEAAgIBBAMAAAAAAAAAAAABAhEAAzEEEiAhIlFx/9oACAECAQE/APDVq70vi6w0BFZP1xh00FS301ebIdsmOa9kocfuG+QUg471ZfE91eTkzbqvH//EACURAAEDAwMDBQAAAAAAAAAAAAECAxEABBIFITETFCAGIiNSkf/aAAgBAwEBPwDw1bVexRihGThRkmeIBA3/AGnNdcXdNMsM89VJK/sinfU942i1WWmfkSVFEmYFafdd5aoflPumMTNX+mW98BmSlWMZJ5xmYp3QmFvF1t1bat4xgwVcnemNCaZQwkXDiuiV4ExtmIqxs0WdullC1K3JJPJKjPj/AP/Z" />
+  </a>
   <br>
 <p align="center">
 <a href="#背景">背景</a> &nbsp;&bull;&nbsp;
