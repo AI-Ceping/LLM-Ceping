@@ -33,7 +33,6 @@
   </a>
   <br>
 <p align="center">
-<a href="#背景">背景</a> &nbsp;&bull;&nbsp;
 <a href="#简介">简介</a> &nbsp;&bull;&nbsp;
 <a href="#用户贡献">用户贡献</a> &nbsp;&bull;&nbsp;
 <a href="#AI-Ceping大模型测评知识库">AI-Ceping 大模型测评知识库</a> &nbsp;&bull;&nbsp;
