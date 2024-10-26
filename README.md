@@ -35,9 +35,9 @@
 <p align="center">
 <a href="#背景">背景</a> &nbsp;&bull;&nbsp;
 <a href="#简介">简介</a> &nbsp;&bull;&nbsp;
+<a href="#用户贡献">用户贡献</a> &nbsp;&bull;&nbsp;
 <a href="#AI-Ceping大模型测评知识库">AI-Ceping 大模型测评知识库</a> &nbsp;&bull;&nbsp;
-<a href="https://github.com/AI-Ceping/LLM-Ceping/wiki/%E5%B9%B3%E5%8F%B0%E6%93%8D%E4%BD%9C%E6%96%B9%E6%B3%95">平台操作方法</a> &nbsp;&bull;&nbsp;
-<a href="https://github.com/AI-Ceping/LLM-Ceping/blob/main/README.md#%E9%81%87%E5%88%B0%E9%97%AE%E9%A2%98%E4%BA%86">遇到问题了？</a> &nbsp;&bull;&nbsp;
+<a href="https://github.com/AI-Ceping/LLM-Ceping/wiki">wiki</a> &nbsp;&bull;&nbsp;
 <a href="#相关文献"> 相关文献 </a> &nbsp;&bull;&nbsp;
 
 </p>
@@ -66,8 +66,9 @@ AI-Ceping 还提供了详细的任务概况说明，包括背景、奖励规则�
 ---
 
 # 用户贡献
+
 我们的平台已经成功吸引了18,875名来自不同背景的用户，为我们的数据集增添了丰富的多样性和深度。已经累积了336,233条数据记录，这些数据覆盖众多主题和领域。我们的数据集还包含了501种不同的标签<br>
-<img src="https://github.com/user-attachments/assets/ff708041-1b2d-41af-9825-bcacc596c176" width="" height="" alt="截图于24/10/27">
+<img src="https://github.com/user-attachments/assets/ff708041-1b2d-41af-9825-bcacc596c176" width="" height="" alt= "截图于24/10/27">
 
 
 
