@@ -69,15 +69,15 @@ AI-Ceping 还提供了详细的任务概况说明，包括背景、奖励规则�
 > [!IMPORTANT] 
 > - 我们的平台已经吸引超过 _**18,875**_ 名来自不同地区的用户。已经累积了 _**336,233**_ 条数据提交记录，其中覆盖了众多主题和领域。包含超 _**501**_ 种不同的标签 <br>
 > - 在此列举了平台核心用户 （前十名）
-> -<img src="https://github.com/user-attachments/assets/ff708041-1b2d-41af-9825-bcacc596c176" width="" height="" alt= "截图于24/10/27">
+> - <img src="https://github.com/user-attachments/assets/ff708041-1b2d-41af-9825-bcacc596c176" width="" height="" alt= "截图于24/10/27">
 
 ---
 # 平台核心功能
 
 | <b> 以下包含了平台核心功能  </b> |   |
 |:---:|:---:|
-|<img src="https://github.com/user-attachments/assets/97458dbd-9e28-45a5-9ca6-f9fc584ec58f" width="700" height="300" alt=""> | <b>单条数据</b>｜向大模型提真实问题<br>向模型提问，让三个大模型生成回答，即可获得奖励，每个问题可得2-10元<br>|
-| <b> 数据扩写 </b>｜撰写问答对，给大模型出题 <br> 提问并撰写参考答案，为大模型训练与评测注入血液，每个问答对可得2-10元 |  <img src="https://github.com/user-attachments/assets/60bcbde3-bbbe-41a4-b926-0c8716d6b442"  width="700" height="300" alt=""> | <br>
+|<img src="https://github.com/user-attachments/assets/97458dbd-9e28-45a5-9ca6-f9fc584ec58f" width="700" height="300" alt=""> | <b>单条数据</b>｜向大模型提真实问题<br>向模型提问，让三个大模型生成回答，即可获得奖励<br>|
+| <b> 数据扩写 </b>｜撰写问答对，给大模型出题 <br> 提问并撰写参考答案，为大模型训练与评测注入血液 |  <img src="https://github.com/user-attachments/assets/60bcbde3-bbbe-41a4-b926-0c8716d6b442"  width="700" height="300" alt=""> | <br>
 |<img src="https://github.com/user-attachments/assets/1f2fea1b-cd99-4ad3-adcb-94ec6089b2c8"  width="700" height="300" alt=""> |  <b> 评测任务</b>｜做选择题，选择你满意的内容 <br> pick你喜欢的模型回答，回答涉及文字、语音和视频等多模态内容，等你来评价！ | <br>
 | <b>  模型擂台</b>｜最强大模型，由你来评 <br> 随机派送2个大模型为你服务，输入问题，选择你喜欢的回答，看看哪个模型表现好​    |  <img src="https://github.com/user-attachments/assets/3b588272-1c8a-4caf-bc82-6f5650e19220"  width="700" height="300" alt=""> | <br>
 
