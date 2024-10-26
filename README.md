@@ -37,8 +37,9 @@
 <a href="#简介">简介</a> &nbsp;&bull;&nbsp;
 <a href="#用户贡献">用户贡献</a> &nbsp;&bull;&nbsp;
 <a href="#AI-Ceping大模型测评知识库">AI-Ceping 大模型测评知识库</a> &nbsp;&bull;&nbsp;
+<a href="#FAQ"> FAQ </a> &nbsp;&bull;&nbsp;
 <a href="https://github.com/AI-Ceping/LLM-Ceping/wiki">wiki</a> &nbsp;&bull;&nbsp;
-<a href="#相关文献"> 相关文献 </a> &nbsp;&bull;&nbsp;
+<a href="#相关文献"> 相关文献 </a>
 
 </p>
   <br>
@@ -93,7 +94,7 @@ AI-Ceping 还提供了详细的任务概况说明，包括背景、奖励规则�
   >__📙   数据集渠道整合__。从海量开源数据集筛选优质数据集，方便大模型使用者快速微调、评测。<br>
   >__📙   共建[ AI-Ceping（爱测评）](https://ai-ceping.com/) 社区：大模型数据灵感众筹平台__。由同济大学发起，鼓励用户通过自己的创意和灵感，贡献真实的AI语料，以助于大模型的持续迭代和维护。<br>
 
-## 📚遇到问题了？
+## FAQ
 请先访问我们的项目[Wiki](https://github.com/AI-Ceping/LLM-Ceping/wiki)，这里汇集了常见问题的解答和操作指南。如果Wiki中没有你要找的答案，欢迎提出你的问题，我们会尽快回复。
 
   - [数据构建操作流程](https://github.com/AI-Ceping/LLM-Ceping/wiki/%E5%B9%B3%E5%8F%B0%E6%93%8D%E4%BD%9C%E6%96%B9%E6%B3%95) 
