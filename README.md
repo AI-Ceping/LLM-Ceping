@@ -44,6 +44,7 @@
   <br>
 </p>
 
+
 ## 背景
  语言模型（Language Model，LM）是自然语言处理领域的重要技术，它可以用来预测下一个词、句子、段落等，并对语言建模。目前，大多数的语言模型都是基于统计语言模型（Statistical Language Model，SLM）构建的，即根据训练数据统计语言的概率分布，并通过概率分布进行预测。然而，统计语言模型存在着一些问题，比如：
 - 训练数据量少，导致模型的准确性较低；
@@ -61,24 +62,28 @@
 > - 评测方法 通过用户提问和撰写参考答案来参与大模型的训练和评测。用户可以通过向模型提问，让三个大模型生成回答，并获得一定的奖励。此外，用户还可以选择喜欢的模型回答，涉及文字、语音和视频等多模态内容
 > - 评测标准 评测方法包括使用强模型（如 GPT-4）来打分评测回答质量，衡量模型的指令遵循能力和有用性。打分维度包括事实正确性、满足用户需求、清晰度、完备性、丰富度等多项.
 > - 目标 期望通过每位用户对大模型应用的理解以及自身具备的不同领域的知识，设计高质量的评测数据来对大模型进行综合的评估。通过这个平台，用户可以为大模型的训练与评测注入活力，
-
 AI-Ceping 还提供了详细的任务概况说明，包括背景、奖励规则、活动须知、反作弊说明和活动安排等，以确保评测活动的顺利进行。通过这个平台，用户可以为大模型的训练与评测注入活力，同时也有机会获得现金奖励
+---
 
-
-# <b>以下是平台核心功能</b>
-|   |    |
-|---|---|
-|<img src="https://github.com/user-attachments/assets/97458dbd-9e28-45a5-9ca6-f9fc584ec58f" width="600" height="300" alt=""> | <b>单条数据</b>｜向大模型提真实问题<br>向模型提问，让三个大模型生成回答，即可获得奖励，每个问题可得2-10元<br>|
-| <b> 数据扩写 </b>｜撰写问答对，给大模型出题 <br> 提问并撰写参考答案，为大模型训练与评测注入血液，每个问答对可得2-10元 |  <img src="https://github.com/user-attachments/assets/60bcbde3-bbbe-41a4-b926-0c8716d6b442"  width="600" height="300" alt=""> | <br>
-|<img src="https://github.com/user-attachments/assets/1f2fea1b-cd99-4ad3-adcb-94ec6089b2c8"  width="600" height="300" alt=""> |  <b> 评测任务</b>｜做选择题，选择你满意的内容 <br> pick你喜欢的模型回答，回答涉及文字、语音和视频等多模态内容，等你来评价！ | <br>
-| <b>  模型擂台</b>｜最强大模型，由你来评 <br> 随机派送2个大模型为你服务，输入问题，选择你喜欢的回答，看看哪个模型表现好​    |  <img src="https://github.com/user-attachments/assets/3b588272-1c8a-4caf-bc82-6f5650e19220"  width="600" height="300" alt=""> | <br>
+# 用户贡献
+我们的平台已经成功吸引了18,875名来自不同背景的用户，为我们的数据集增添了丰富的多样性和深度。已经累积了336,233条数据记录，这些数据覆盖众多主题和领域。我们的数据集还包含了501种不同的标签<br>
+<img src="https://github.com/user-attachments/assets/ff708041-1b2d-41af-9825-bcacc596c176" width="" height="" alt="截图于24/10/27">
 
 
 
+# 平台核心功能
 
+| <b> 以下包含了平台核心功能  </b> |   |
+|:---:|:---:|
+|<img src="https://github.com/user-attachments/assets/97458dbd-9e28-45a5-9ca6-f9fc584ec58f" width="700" height="300" alt=""> | <b>单条数据</b>｜向大模型提真实问题<br>向模型提问，让三个大模型生成回答，即可获得奖励，每个问题可得2-10元<br>|
+| <b> 数据扩写 </b>｜撰写问答对，给大模型出题 <br> 提问并撰写参考答案，为大模型训练与评测注入血液，每个问答对可得2-10元 |  <img src="https://github.com/user-attachments/assets/60bcbde3-bbbe-41a4-b926-0c8716d6b442"  width="700" height="300" alt=""> | <br>
+|<img src="https://github.com/user-attachments/assets/1f2fea1b-cd99-4ad3-adcb-94ec6089b2c8"  width="700" height="300" alt=""> |  <b> 评测任务</b>｜做选择题，选择你满意的内容 <br> pick你喜欢的模型回答，回答涉及文字、语音和视频等多模态内容，等你来评价！ | <br>
+| <b>  模型擂台</b>｜最强大模型，由你来评 <br> 随机派送2个大模型为你服务，输入问题，选择你喜欢的回答，看看哪个模型表现好​    |  <img src="https://github.com/user-attachments/assets/3b588272-1c8a-4caf-bc82-6f5650e19220"  width="700" height="300" alt=""> | <br>
+
+
+---
 
 ## AI-Ceping大模型测评知识库
-
   这里我们与社区用户共建了[《AI-Ceping 大模型测评知识库》](https://tapy80meo6.feishu.cn/wiki/OY2FwN1hTiJXJ5kxbuucPIMLn2c?fromScene=spaceOverview)，帮助大家快速了解入门AI大模型 ：
   > [!tip]\
   >__📕 AI 大模型评测知识分享__。从0到1带大家入门大模型评测，成为Prompt大师和大语言模型评测专家。<br>
