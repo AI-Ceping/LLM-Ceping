@@ -68,12 +68,10 @@ AI-Ceping 还提供了详细的任务概况说明，包括背景、奖励规则�
 # 用户贡献
 > [!IMPORTANT] 
 > - 我们的平台已经吸引超过 _**18,875**_ 名来自不同地区的用户。已经累积了 _**336,233**_ 条数据提交记录，其中覆盖了众多主题和领域。包含超 _**501**_ 种不同的标签 <br>
+> - 在此列举了平台核心用户 （前十名）
+> -<img src="https://github.com/user-attachments/assets/ff708041-1b2d-41af-9825-bcacc596c176" width="" height="" alt= "截图于24/10/27">
+
 ---
-<br>
-<img src="https://github.com/user-attachments/assets/ff708041-1b2d-41af-9825-bcacc596c176" width="" height="" alt= "截图于24/10/27">
-
-
-
 # 平台核心功能
 
 | <b> 以下包含了平台核心功能  </b> |   |
