@@ -52,6 +52,10 @@
 
 
 
+https://github.com/user-attachments/assets/b7ed3d5a-2572-4bfa-b42c-b476f6fda479
+
+
+
 # 简介
 ⭐[LLM-Ceping](https://ai-ceping.com/)  AI-Ceping，一个由同济大学开发的大模型评测数据收集平台。是为了应对大语言模型（LLM）评测的迫切需求，尤其是在 ChatGPT 掀起的研究和应用浪潮之后。使命是构建一个权威、公正、透明的评测环境，以客观评估大型语言模型的能力，并反映这些模型需要解决的问题。
 > [!TIP] 
